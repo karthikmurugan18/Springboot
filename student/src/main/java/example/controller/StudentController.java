@@ -27,6 +27,7 @@ import example.service.StudentService;
 
 @RestController
 public class StudentController {
+
 		@Autowired
 	    private StudentService studentService;
 //	 

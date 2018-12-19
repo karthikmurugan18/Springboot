@@ -26,8 +26,10 @@ import java.util.List;
 @SpringBootApplication
 public class StudentApplication  {
 	static ObjectMapper mapper = new ObjectMapper();
+	
 	public static void main(String[] args) throws JsonGenerationException, JsonMappingException, IOException
 	{
+		
 		SpringApplication.run(StudentApplication.class, args);
 		
 	}

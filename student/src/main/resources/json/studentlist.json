@@ -1,10 +1,35 @@
-[ {
-  "id" : 1,
-  "name" : "Lakshmi"
-}, {
-  "id" : 3,
-  "name" : "Pravin"
-}, {
-  "id" : 4,
-  "name" : "Ranjith"
+[ 
+{
+  
+  "name" : "Lakshmi",
+  "address" : 
+    {
+  "street": "kattabomman",
+  "city" : "Coimbatore",
+  "zip" : "641035"
+  }
+  
+}, 
+{
+  
+  "name" : "Pravin",
+  "address" : 
+    {
+  "street": "kattabomman",
+  "city" : "Coimbatore",
+  "zip" : "641035"
+  }
+  
+}, 
+{
+  
+  "name" : "Ranjith",
+  "address" : 
+  
+  {
+  "street": "k",
+  "city" : "Coe",
+  "zip" : "641"
+  }
+  
 } ]
