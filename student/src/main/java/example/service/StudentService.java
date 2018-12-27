@@ -39,13 +39,13 @@ public class StudentService {
 		}
 		
 		
-			@Modifying
-			@Query(value = "update Students s set s.name = ? where s.id = ?", 
-			  nativeQuery = true)
-			public boolean updateStudent(String name,int id)
-			{
-				return true;
-			}
+// 			@Modifying
+// 			@Query(value = "update Students s set s.name = ? where s.id = ?", 
+// 			  nativeQuery = true)
+// 			public boolean updateStudent(String name,int id)
+// 			{
+// 				return true;
+// 			}
 	    }
 	 
 	
