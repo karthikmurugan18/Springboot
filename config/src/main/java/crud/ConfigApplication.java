@@ -36,8 +36,8 @@ public class ConfigApplication {
 		return args -> {
 			// read JSON and load json
 
-			//mapper.disable(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES);
-
+		//	mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES,false);
+			mapper.enable(DeserializationFeature.ACCEPT_EMPTY_STRING_AS_NULL_OBJECT);
 			TypeReference<List<Client>> typeReference = new TypeReference<List<Client>>(){};
 			InputStream inputStream = TypeReference.class.getResourceAsStream("/json/client_info_final.json");
 			try {

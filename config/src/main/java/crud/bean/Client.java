@@ -1,71 +1,162 @@
 package crud.bean;
 
 import javax.persistence.Column;
-import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
+import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.Table;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonSetter;
 
-
-
+@JsonIgnoreProperties(ignoreUnknown = true)
 @Entity
-@JsonIgnoreProperties
+@Table(name = "client_info")
 public class Client {
 	@Id
-	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	@Column
+	@GeneratedValue(strategy=GenerationType.IDENTITY)	
+	
 	private long id;
-	private String SYSTEM,PRIN_NO,agent,client_name,billingdate_codes,duedate_codes;
+	@Column
+	@JsonProperty("SYSTEM")
+	private String SYSTEM;
+	@JsonProperty("PRIN_NO")
+	private String PRIN_NO;
+	@JsonProperty("AGENT")
+	private String AGENT;
+	@JsonProperty("CLIENT_NAME")
+	private String CLIENT_NAME;
+	@JsonProperty("BILLINGDATE_CODES")
+	private String BILLINGDATE_CODES;
+	@JsonProperty("DUEDATE_CODES")
+	private String DUEDATE_CODES;
+	@JsonProperty("FIELD7")
+	private String FIELD7;
 
-	public String getSystem() {
-		return system;
+	
+
+	@Override
+	public String toString() {
+		return "Client [id=" + id + ", SYSTEM=" + SYSTEM + ", PRIN_NO=" + PRIN_NO + ", AGENT=" + AGENT
+				+ ", CLIENT_NAME=" + CLIENT_NAME + ", BILLINGDATE_CODES=" + BILLINGDATE_CODES + ", DUEDATE_CODES="
+				+ DUEDATE_CODES + ", FIELD7=" + FIELD7 + "]";
 	}
 
-	public void setSystem(String system) {
-		this.system = system;
+
+
+	public Client(long id, String sYSTEM, String pRIN_NO, String aGENT, String cLIENT_NAME, String bILLINGDATE_CODES,
+			String dUEDATE_CODES, String fIELD7) {
+		super();
+		this.id = id;
+		SYSTEM = sYSTEM;
+		PRIN_NO = pRIN_NO;
+		AGENT = aGENT;
+		CLIENT_NAME = cLIENT_NAME;
+		BILLINGDATE_CODES = bILLINGDATE_CODES;
+		DUEDATE_CODES = dUEDATE_CODES;
+		FIELD7 = fIELD7;
 	}
 
-	public String getPrin_no() {
-		return prin_no;
+
+
+	public long getId() {
+		return id;
 	}
 
-	public void setPrin_no(String prin_no) {
-		this.prin_no = prin_no;
+
+
+	public void setId(long id) {
+		this.id = id;
 	}
 
-	public String getAgent() {
-		return agent;
+
+
+	public String getSYSTEM() {
+		return SYSTEM;
 	}
 
-	public void setAgent(String agent) {
-		this.agent = agent;
+
+	@JsonSetter("SYSTEM")
+	public void setSYSTEM(String sYSTEM) {
+		SYSTEM = sYSTEM;
 	}
 
-	public String getClient_name() {
-		return client_name;
+
+
+	public String getPRIN_NO() {
+		return PRIN_NO;
 	}
 
-	public void setClient_name(String client_name) {
-		this.client_name = client_name;
+
+	@JsonSetter("PRIN_NO")
+	public void setPRIN_NO(String pRIN_NO) {
+		PRIN_NO = pRIN_NO;
 	}
 
-	public String getBillingdate_codes() {
-		return billingdate_codes;
+
+
+	public String getAGENT() {
+		return AGENT;
 	}
 
-	public void setBillingdate_codes(String billingdate_codes) {
-		this.billingdate_codes = billingdate_codes;
+
+	@JsonSetter("AGENT")
+	public void setAGENT(String aGENT) {
+		AGENT = aGENT;
 	}
 
-	public String getDuedate_codes() {
-		return duedate_codes;
+
+
+	public String getCLIENT_NAME() {
+		return CLIENT_NAME;
 	}
 
-	public void setDuedate_codes(String duedate_codes) {
-		this.duedate_codes = duedate_codes;
+
+	@JsonSetter("CLIENT_NAME")
+	public void setCLIENT_NAME(String cLIENT_NAME) {
+		CLIENT_NAME = cLIENT_NAME;
 	}
+
+
+
+	public String getBILLINGDATE_CODES() {
+		return BILLINGDATE_CODES;
+	}
+
+
+	@JsonSetter("BILLINGDATE_CODES")
+	public void setBILLINGDATE_CODES(String bILLINGDATE_CODES) {
+		BILLINGDATE_CODES = bILLINGDATE_CODES;
+	}
+
+
+
+	public String getDUEDATE_CODES() {
+		return DUEDATE_CODES;
+	}
+
+
+	@JsonSetter("DUEDATE_CODES")
+	public void setDUEDATE_CODES(String dUEDATE_CODES) {
+		DUEDATE_CODES = dUEDATE_CODES;
+	}
+
+
+
+	public String getFIELD7() {
+		return FIELD7;
+	}
+
+
+	@JsonSetter("FIELD7")
+	public void setFIELD7(String fIELD7) {
+		FIELD7 = fIELD7;
+	}
+
+
 
 	public Client() {
 		super();
