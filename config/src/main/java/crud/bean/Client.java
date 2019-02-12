@@ -79,7 +79,7 @@ public class Client {
 	}
 
 
-	@JsonSetter("SYSTEM")
+//	@JsonSetter("SYSTEM")
 	public void setSYSTEM(String sYSTEM) {
 		SYSTEM = sYSTEM;
 	}
@@ -91,7 +91,7 @@ public class Client {
 	}
 
 
-	@JsonSetter("PRIN_NO")
+	//@JsonSetter("PRIN_NO")
 	public void setPRIN_NO(String pRIN_NO) {
 		PRIN_NO = pRIN_NO;
 	}
@@ -103,7 +103,7 @@ public class Client {
 	}
 
 
-	@JsonSetter("AGENT")
+//	@JsonSetter("AGENT")
 	public void setAGENT(String aGENT) {
 		AGENT = aGENT;
 	}
@@ -115,7 +115,7 @@ public class Client {
 	}
 
 
-	@JsonSetter("CLIENT_NAME")
+//	@JsonSetter("CLIENT_NAME")
 	public void setCLIENT_NAME(String cLIENT_NAME) {
 		CLIENT_NAME = cLIENT_NAME;
 	}
@@ -127,7 +127,7 @@ public class Client {
 	}
 
 
-	@JsonSetter("BILLINGDATE_CODES")
+//	@JsonSetter("BILLINGDATE_CODES")
 	public void setBILLINGDATE_CODES(String bILLINGDATE_CODES) {
 		BILLINGDATE_CODES = bILLINGDATE_CODES;
 	}
@@ -139,7 +139,7 @@ public class Client {
 	}
 
 
-	@JsonSetter("DUEDATE_CODES")
+//	@JsonSetter("DUEDATE_CODES")
 	public void setDUEDATE_CODES(String dUEDATE_CODES) {
 		DUEDATE_CODES = dUEDATE_CODES;
 	}
@@ -151,7 +151,7 @@ public class Client {
 	}
 
 
-	@JsonSetter("FIELD7")
+//	@JsonSetter("FIELD7")
 	public void setFIELD7(String fIELD7) {
 		FIELD7 = fIELD7;
 	}

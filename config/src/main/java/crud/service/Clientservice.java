@@ -1,10 +1,18 @@
 package crud.service;
 
+import java.io.InputStream;
 import java.util.ArrayList;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.ObjectWriter;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.DeserializationFeature;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 
 import crud.bean.Client;
 import crud.repository.Clientrepository;
@@ -31,6 +39,7 @@ public class Clientservice {
 	        clientRepository.findAll().forEach(client -> clients.add(client));
 	        return clients;
 	    }
+	 
 
 	    public Client getClientById(int id) {
 	        return clientRepository.findById((long) id).get();

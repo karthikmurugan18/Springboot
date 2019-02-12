@@ -26,9 +26,11 @@ import crud.bean.Client;
 public class ConfigApplication {
 
 	static ObjectMapper mapper = new ObjectMapper();
+	
 	public static void main(String[] args) throws JsonGenerationException, JsonMappingException, IOException{
 		SpringApplication.run(ConfigApplication.class, args);
 	}
+	
 
 
 	@Bean
@@ -43,9 +45,9 @@ public class ConfigApplication {
 			try {
 				List<Client> clients = mapper.readValue(inputStream,typeReference);
 				clientService.save(clients);
-				System.out.println("Users Saved!");
+				System.out.println("Client info saved!");
 			} catch (IOException e){
-				System.out.println("Unable to save users: " + e.getMessage());
+				System.out.println("Unable to save clients: " + e.getMessage());
 			}
 		//	inputStream.close();
 

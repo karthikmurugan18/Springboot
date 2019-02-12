@@ -1,0 +1,5087 @@
+[ {
+  "SYSTEM" : "9139",
+  "PRIN_NO" : "7700",
+  "AGENT" : "0005",
+  "CLIENT_NAME" : "Macy`s PL - Consumer (Visa)",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9154",
+  "PRIN_NO" : "8025",
+  "AGENT" : "**",
+  "CLIENT_NAME" : "Wawa",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9154",
+  "PRIN_NO" : "8025",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Wawa",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9154",
+  "PRIN_NO" : "8026",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Fuels Pre-Build A",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9154",
+  "PRIN_NO" : "8026",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Fuels Pre-Build A",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9154",
+  "PRIN_NO" : "8027",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Fuels Pre-Build B",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9154",
+  "PRIN_NO" : "8027",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Fuels Pre-Build B",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7201",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Signature",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7201",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Signature",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7201",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Signature",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7201",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Signature",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7201",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Signature",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7201",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Signature",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7202",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Gold",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "10",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Helzberg Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "20",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Gateway Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "3100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0010",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9139",
+  "PRIN_NO" : "7700",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Macy`s PL - Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9139",
+  "PRIN_NO" : "7700",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Macy`s PL - Consumer (Visa)",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9139",
+  "PRIN_NO" : "7800",
+  "AGENT" : "0006",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bloomingdale`s Employee Prepaid Converted",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7202",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Gold",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7202",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Gold",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7202",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Gold",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7202",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Gold",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7203",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Platinum",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7203",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Platinum",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7203",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Platinum",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7203",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Platinum",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7203",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Platinum",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7204",
+  "AGENT" : "0006",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Gold",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7204",
+  "AGENT" : "0007",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Gold",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "3356",
+  "PRIN_NO" : "7204",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Visa Gold",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9155",
+  "PRIN_NO" : "7920",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Macy`s Corporate",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9155",
+  "PRIN_NO" : "7920",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Macy`s Corporate",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9139",
+  "PRIN_NO" : "7800",
+  "AGENT" : "0007",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bloomingdale`s Employee Prepaid New",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9139",
+  "PRIN_NO" : "7800",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bloomingdale`s PL - Consumer (Visa)",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9139",
+  "PRIN_NO" : "7800",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bloomingdale`s PL - Consumer (Visa)",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9139",
+  "PRIN_NO" : "7800",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bloomingdale`s PL - Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9155",
+  "PRIN_NO" : "7920",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bloomingdale`s Corporate",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "3200",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "3300",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "3400",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "3500",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "3600",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - NTB Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "3700",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "3800",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1014",
+  "PRIN_NO" : "7000",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Platinum MC - Consumer",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "6325",
+  "PRIN_NO" : "7700",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Macy`s - American Express",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "6325",
+  "PRIN_NO" : "7800",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bloomingdale`s - American Express ",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9139",
+  "PRIN_NO" : "7700",
+  "AGENT" : "0006",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Macy`s Employee Prepaid Converted",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9139",
+  "PRIN_NO" : "7700",
+  "AGENT" : "0007",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Macy`s Employee Prepaid New",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9155",
+  "PRIN_NO" : "7920",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bloomingdale`s Corporate",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9155",
+  "PRIN_NO" : "7930",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Converted Pay Down",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26,27",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9038",
+  "PRIN_NO" : "7001",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy PL - Consumer",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9038",
+  "PRIN_NO" : "7002",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Magnolia PL - Consumer",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9038",
+  "PRIN_NO" : "7003",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Pacific Sales PL - Consumer",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1014",
+  "PRIN_NO" : "7001",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Gold MC - Consumer",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1014",
+  "PRIN_NO" : "7001",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Buy Platinum MC - Consumer",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1014",
+  "PRIN_NO" : "7002",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Magnolia Platinum MC - Consumer",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1014",
+  "PRIN_NO" : "7003",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Pacific Sales Platinum MC - Consumer",
+  "DUEDATE_CODES" : "27,28,1,2,4,5,7,8,9,11,12,13,14,16,17,18,20,21,22,23",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9366",
+  "PRIN_NO" : "8012",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "M-Shell Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9366",
+  "PRIN_NO" : "8012",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "M-Shell Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9383",
+  "PRIN_NO" : "8022",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Exxon Mobil Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,8,9,10,12,14,16,17,18,21,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,6,7,8,9,11,12,13,14,16,18,19,20"
+}, {
+  "SYSTEM" : "9383",
+  "PRIN_NO" : "8022",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Exxon Mobil Consumer - Converted",
+  "DUEDATE_CODES" : "1,2,4,5,8,9,10,12,14,16,17,18,21,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,6,7,8,9,11,12,13,14,16,18,19,20"
+}, {
+  "SYSTEM" : "9383",
+  "PRIN_NO" : "8022",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Exxon Mobil Consumer - Converted",
+  "DUEDATE_CODES" : "1,2,4,5,8,9,10,12,14,16,17,18,21,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,6,7,8,9,11,12,13,14,16,18,19,20"
+}, {
+  "SYSTEM" : "9383",
+  "PRIN_NO" : "8024",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Exxon Mobil Consumer Employee",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "9363",
+  "PRIN_NO" : "8006",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITI",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9364",
+  "PRIN_NO" : "8010",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sunoco Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9364",
+  "PRIN_NO" : "8010",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sunoco Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9365",
+  "PRIN_NO" : "8004",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITI",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9365",
+  "PRIN_NO" : "8004",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITI",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9365",
+  "PRIN_NO" : "8002",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITI",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9365",
+  "PRIN_NO" : "8002",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITI",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9365",
+  "PRIN_NO" : "8000",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITI",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9365",
+  "PRIN_NO" : "8000",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITI",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9363",
+  "PRIN_NO" : "8006",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITI",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9354",
+  "PRIN_NO" : "5405",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sears Sold Private Label",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9400",
+  "PRIN_NO" : "9502",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sales Finance SLC/EC LIQ",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,16,17,18,20,22,24",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,12,13,14,15,17,18"
+}, {
+  "SYSTEM" : "9195",
+  "PRIN_NO" : "300",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi Health Card",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "9366",
+  "PRIN_NO" : "8014",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Shell Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0006",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0007",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0008",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0009",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0011",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0012",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0013",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9383",
+  "PRIN_NO" : "8024",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Exxon Mobil Consumer Employee",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "9383",
+  "PRIN_NO" : "8024",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Exxon Mobil Consumer Employee",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "9400",
+  "PRIN_NO" : "9500",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sales Finance US LIQ",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,16,17,18,20,22,24",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,12,13,14,15,17,18"
+}, {
+  "SYSTEM" : "9400",
+  "PRIN_NO" : "9501",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sales Finance PR LIQ",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,16,17,18,20,22,24",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,12,13,14,15,17,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0014",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9366",
+  "PRIN_NO" : "8014",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Shell Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "300",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Goodyear Consumer",
+  "DUEDATE_CODES" : "4,10,16,25",
+  "BILLINGDATE_CODES" : "3,8,12,19"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "400",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PLChildren`sPlaceConsumer",
+  "DUEDATE_CODES" : "4,8,12",
+  "BILLINGDATE_CODES" : "3,6,9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "500",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Rogers Consumer",
+  "DUEDATE_CODES" : "14",
+  "BILLINGDATE_CODES" : "11"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3900",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Consumer MasterCard Standard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3901",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Consumer MasterCard Standard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "600",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL J Jill Consumer",
+  "DUEDATE_CODES" : "16",
+  "BILLINGDATE_CODES" : "12"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "700",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL American Airlines Consumer",
+  "DUEDATE_CODES" : "2,5,10,14,21",
+  "BILLINGDATE_CODES" : "2,4,8,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "800",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Bombay Consumer",
+  "DUEDATE_CODES" : "10",
+  "BILLINGDATE_CODES" : "8"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "900",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Jewelry [Cons]",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "900",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Mayors Consumer - Liquidating",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "900",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Jewelry [Cons]",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "900",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Jewelry [Cons]",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "900",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Jewelry [Cons]",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "900",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Jewelry [Cons]",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "900",
+  "AGENT" : "0006",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Jewelry [Cons]",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "900",
+  "AGENT" : "0007",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Jewelry [Cons]",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "900",
+  "AGENT" : "0008",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Jewelry [Cons]",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "1000",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Radio Shack Consumer",
+  "DUEDATE_CODES" : "2,6,12,17,22,25",
+  "BILLINGDATE_CODES" : "2,5,9,13,17,19"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "1200",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "2,5,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "3,6,7,10,14,15,18"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "1300",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "4,8,9,13,20,24",
+  "BILLINGDATE_CODES" : "3,6,7,10,15,18"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "1400",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL National Tire & Bttry Consumer",
+  "DUEDATE_CODES" : "2,8,10,17,26",
+  "BILLINGDATE_CODES" : "2,6,8,13,20"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "1500",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Tractor Supply Consumer",
+  "DUEDATE_CODES" : "2,10,16,21",
+  "BILLINGDATE_CODES" : "2,8,12,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "1600",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Drive Card Consumer",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "1700",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Drive Card Consumer",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "2000",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Staples Consumer",
+  "DUEDATE_CODES" : "4,16,24",
+  "BILLINGDATE_CODES" : "3,12,18"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "2100",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Office Depot Consumer",
+  "DUEDATE_CODES" : "9,16",
+  "BILLINGDATE_CODES" : "7,12"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "2200",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Citi Health New Prefix Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4, 9, 11, 16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5100",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Blain`s Farm & Fleet Consumer",
+  "DUEDATE_CODES" : "12,22",
+  "BILLINGDATE_CODES" : "9,17"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5200",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Citi Health Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Citi Health Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Citi Health Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Citi Health Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Citi Health Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0006",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Citi Health Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0007",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Citi Health Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0008",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Citi Health Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0009",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Citi Health Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0010",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Citi Health Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5300",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Goodyear Consumer",
+  "DUEDATE_CODES" : "4,10,16,25",
+  "BILLINGDATE_CODES" : "3,8,12,19"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5500",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Rogers Consumer",
+  "DUEDATE_CODES" : "14",
+  "BILLINGDATE_CODES" : "11"
+}, {
+  "SYSTEM" : "9351",
+  "PRIN_NO" : "5020",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Easy Pay",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9351",
+  "PRIN_NO" : "5030",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sears Stub",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "7250",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "B Moss Liquidating",
+  "DUEDATE_CODES" : "9",
+  "BILLINGDATE_CODES" : "7"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "7290",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Best Receptions Liquidating",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "7400",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Pergament Liquidating",
+  "DUEDATE_CODES" : "9",
+  "BILLINGDATE_CODES" : "7"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "7560",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Value America Liquidating",
+  "DUEDATE_CODES" : "5",
+  "BILLINGDATE_CODES" : "4"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "7600",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bombay Liquidating",
+  "DUEDATE_CODES" : "10",
+  "BILLINGDATE_CODES" : "8"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "7620",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Lechmere Liquidating",
+  "DUEDATE_CODES" : "1,6,13,20,26",
+  "BILLINGDATE_CODES" : "1,5,10,15,20"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "8300",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Betaseron Liquidating",
+  "DUEDATE_CODES" : "5",
+  "BILLINGDATE_CODES" : "4"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "8390",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Tri-Star Liquidating",
+  "DUEDATE_CODES" : "5,18",
+  "BILLINGDATE_CODES" : "4,14"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "8400",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Fred Meyer Liquidating",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "8530",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Fry`s Electronic Liquidating",
+  "DUEDATE_CODES" : "18",
+  "BILLINGDATE_CODES" : "14"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6470",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Krigels Jewelers Liquidating",
+  "DUEDATE_CODES" : "13",
+  "BILLINGDATE_CODES" : "10"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6520",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Ultra Liquidating",
+  "DUEDATE_CODES" : "18",
+  "BILLINGDATE_CODES" : "14"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6590",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Place Liquidating",
+  "DUEDATE_CODES" : "5",
+  "BILLINGDATE_CODES" : "4"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6700",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Entertainment Plus Liquidating",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6870",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Tandy/CC Liquidating",
+  "DUEDATE_CODES" : "10,18,24",
+  "BILLINGDATE_CODES" : "8,14,18"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6890",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Radio Shack Consolidated Liquidating",
+  "DUEDATE_CODES" : "5,10,18,25",
+  "BILLINGDATE_CODES" : "4,8,14,19"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6910",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Joseph Spiess Liquidating",
+  "DUEDATE_CODES" : "26",
+  "BILLINGDATE_CODES" : "20"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6950",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Fox Jewelers Liquidating",
+  "DUEDATE_CODES" : "1,10,26",
+  "BILLINGDATE_CODES" : "1,8,20"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6960",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Samuels Liquidating",
+  "DUEDATE_CODES" : "18",
+  "BILLINGDATE_CODES" : "14"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "7020",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Lil Things Liquidating",
+  "DUEDATE_CODES" : "9",
+  "BILLINGDATE_CODES" : "7"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "7120",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Future Shop Liquidating",
+  "DUEDATE_CODES" : "18",
+  "BILLINGDATE_CODES" : "14"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "7500",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Lurias Liquidating",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "7520",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Winston Tire Liquidating",
+  "DUEDATE_CODES" : "6",
+  "BILLINGDATE_CODES" : "5"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "7540",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Glennpeter Liquidating",
+  "DUEDATE_CODES" : "26",
+  "BILLINGDATE_CODES" : "20"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "7550",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Riddles Liquidating",
+  "DUEDATE_CODES" : "17",
+  "BILLINGDATE_CODES" : "13"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "7200",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Canadians Liquidating",
+  "DUEDATE_CODES" : "9",
+  "BILLINGDATE_CODES" : "7"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "7220",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Canadians Scribbles Liquidating",
+  "DUEDATE_CODES" : "9",
+  "BILLINGDATE_CODES" : "7"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "5410",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Gallery Furniture Liquidating Liquidating",
+  "DUEDATE_CODES" : "1,6,17",
+  "BILLINGDATE_CODES" : "1,5,13"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "5760",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "HI-FI.COM Liquidating",
+  "DUEDATE_CODES" : "16",
+  "BILLINGDATE_CODES" : "12"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "5900",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "DSI/Skycharge Liquidating",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6050",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "America`s Co-Op Liquidating",
+  "DUEDATE_CODES" : "18",
+  "BILLINGDATE_CODES" : "14"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6060",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "JC Keepsake Liquidating",
+  "DUEDATE_CODES" : "17",
+  "BILLINGDATE_CODES" : "13"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6120",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Audrey Jones Liquidating",
+  "DUEDATE_CODES" : "26",
+  "BILLINGDATE_CODES" : "20"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6120",
+  "AGENT" : "9999",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Audrey Jones Liquidating",
+  "DUEDATE_CODES" : "26",
+  "BILLINGDATE_CODES" : "20"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6240",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Jay Jacobs Liquidating",
+  "DUEDATE_CODES" : "18",
+  "BILLINGDATE_CODES" : "14"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6260",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Accente Liquidating",
+  "DUEDATE_CODES" : "9",
+  "BILLINGDATE_CODES" : "7"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6300",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Laura ley Liquidating",
+  "DUEDATE_CODES" : "26",
+  "BILLINGDATE_CODES" : "20"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6350",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Gander Mountain Liquidating",
+  "DUEDATE_CODES" : "18",
+  "BILLINGDATE_CODES" : "14"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6370",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Gold & Diamond Merchants Liquidating",
+  "DUEDATE_CODES" : "13",
+  "BILLINGDATE_CODES" : "10"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "6400",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Paul Harris Liquidating",
+  "DUEDATE_CODES" : "24",
+  "BILLINGDATE_CODES" : "18"
+}, {
+  "SYSTEM" : "9199",
+  "PRIN_NO" : "701",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "United Liquidating",
+  "DUEDATE_CODES" : "4,13,17,24",
+  "BILLINGDATE_CODES" : "3,10,13,18"
+}, {
+  "SYSTEM" : "9199",
+  "PRIN_NO" : "701",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "United Liquidating",
+  "DUEDATE_CODES" : "4,13,17,24",
+  "BILLINGDATE_CODES" : "3,10,13,18"
+}, {
+  "SYSTEM" : "9199",
+  "PRIN_NO" : "757",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "American Airlines",
+  "DUEDATE_CODES" : "2,5,10,14,21",
+  "BILLINGDATE_CODES" : "2,4,8,11,16"
+}, {
+  "SYSTEM" : "9199",
+  "PRIN_NO" : "757",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "American Airlines Consumer TWA Converted",
+  "DUEDATE_CODES" : "2",
+  "BILLINGDATE_CODES" : "2"
+}, {
+  "SYSTEM" : "9199",
+  "PRIN_NO" : "757",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "American Airlines Consumer TWA Converted",
+  "DUEDATE_CODES" : "2",
+  "BILLINGDATE_CODES" : "2"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "5250",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Shop At Home Liquidating",
+  "DUEDATE_CODES" : "13",
+  "BILLINGDATE_CODES" : "10"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "5270",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "House2Home Liquidating",
+  "DUEDATE_CODES" : "10",
+  "BILLINGDATE_CODES" : "8"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "5350",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "*%*CLIENT_CODE*%*",
+  "DUEDATE_CODES" : "1,17",
+  "BILLINGDATE_CODES" : "1,13"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "5360",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Romanos Liquidating",
+  "DUEDATE_CODES" : "1,17",
+  "BILLINGDATE_CODES" : "1,13"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "5370",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Adamas Liquidating",
+  "DUEDATE_CODES" : "1,17",
+  "BILLINGDATE_CODES" : "1,13"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "5380",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Care Credit Liquidating",
+  "DUEDATE_CODES" : "1,5,16",
+  "BILLINGDATE_CODES" : "1,4,12"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "5390",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Electrolux Liquidating",
+  "DUEDATE_CODES" : "5,18",
+  "BILLINGDATE_CODES" : "4,14"
+}, {
+  "SYSTEM" : "9200",
+  "PRIN_NO" : "5400",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Furniture Row Liquidating",
+  "DUEDATE_CODES" : "1,6,17",
+  "BILLINGDATE_CODES" : "1,5,13"
+}, {
+  "SYSTEM" : "9196",
+  "PRIN_NO" : "409",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD CTP Loan US",
+  "DUEDATE_CODES" : "1",
+  "BILLINGDATE_CODES" : "1"
+}, {
+  "SYSTEM" : "9196",
+  "PRIN_NO" : "408",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Expo - Home Improvement Loan US",
+  "DUEDATE_CODES" : "14",
+  "BILLINGDATE_CODES" : "11"
+}, {
+  "SYSTEM" : "9196",
+  "PRIN_NO" : "407",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Expo HIL US",
+  "DUEDATE_CODES" : "14",
+  "BILLINGDATE_CODES" : "11"
+}, {
+  "SYSTEM" : "9196",
+  "PRIN_NO" : "405",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Landscape Supply Cons.US",
+  "DUEDATE_CODES" : "2,5,8,10,12,14,17,21,24,25",
+  "BILLINGDATE_CODES" : "2,4,6,8,9,11,13,16,18,19"
+}, {
+  "SYSTEM" : "9196",
+  "PRIN_NO" : "404",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Depot HIL US",
+  "DUEDATE_CODES" : "4,12,13,18,22,27",
+  "BILLINGDATE_CODES" : "3,9,10,14,17,21"
+}, {
+  "SYSTEM" : "9196",
+  "PRIN_NO" : "403",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Depot Suppply Cons.US",
+  "DUEDATE_CODES" : "2,5,8,10,12,14,17,21,24,25",
+  "BILLINGDATE_CODES" : "2,4,6,8,9,11,13,16,18,19"
+}, {
+  "SYSTEM" : "9196",
+  "PRIN_NO" : "402",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD US Design Place Direct Cons.US",
+  "DUEDATE_CODES" : "2,5,8,10,12,14,17,21,24,25",
+  "BILLINGDATE_CODES" : "2,4,6,8,9,11,13,16,18,19"
+}, {
+  "SYSTEM" : "9196",
+  "PRIN_NO" : "401",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD US Expo Consumer",
+  "DUEDATE_CODES" : "5,8,12,16,21,25",
+  "BILLINGDATE_CODES" : "4,6,9,12,16,19"
+}, {
+  "SYSTEM" : "9196",
+  "PRIN_NO" : "400",
+  "AGENT" : "0006",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Consumer US",
+  "DUEDATE_CODES" : "2,5,8,10,12,14,17,21,24,25",
+  "BILLINGDATE_CODES" : "2,4,6,8,9,11,13,16,18,19"
+}, {
+  "SYSTEM" : "9196",
+  "PRIN_NO" : "400",
+  "AGENT" : "9999",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Consumer US",
+  "DUEDATE_CODES" : "2,5,8,10,12,14,17,21,24,25",
+  "BILLINGDATE_CODES" : "2,4,6,8,9,11,13,16,18,19"
+}, {
+  "SYSTEM" : "9196",
+  "PRIN_NO" : "400",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD US Consumer",
+  "DUEDATE_CODES" : "2,5,8,10,12,14,17,21,24,25",
+  "BILLINGDATE_CODES" : "2,4,6,8,9,11,13,16,18,19"
+}, {
+  "SYSTEM" : "9195",
+  "PRIN_NO" : "321",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Blaines Consumer-Liquidating Client",
+  "DUEDATE_CODES" : "12,22",
+  "BILLINGDATE_CODES" : "9,17"
+}, {
+  "SYSTEM" : "9195",
+  "PRIN_NO" : "321",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Blaines Consumer-Liquidating Client",
+  "DUEDATE_CODES" : "12,22",
+  "BILLINGDATE_CODES" : "9,17"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "670",
+  "AGENT" : "0600",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MasterCard-Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "670",
+  "AGENT" : "0700",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MasterCard-Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "670",
+  "AGENT" : "0800",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MasterCard-Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "670",
+  "AGENT" : "0900",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MasterCard-Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3501",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Polaris",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3501",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Polaris",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3501",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Polaris",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3501",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Indian Motorcycle",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3502",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "BRP Credit Card",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3503",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Kawasaki",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3500",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda PowerSports",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "671",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "670",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MasterCard-Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "616",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "616",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "616",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "616",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "617",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "617",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "617",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "617",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3505",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Kawasaki",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3505",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Kawasaki",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3505",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Kawasaki",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3505",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Kawasaki",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3506",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Kawasaki",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3506",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Kawasaki",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3506",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Kawasaki",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9211",
+  "PRIN_NO" : "3506",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Kawasaki",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "618",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "618",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "618",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "618",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "619",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "619",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "619",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "619",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "2293",
+  "PRIN_NO" : "2900",
+  "AGENT" : "** ",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "L.L.Bean",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "2293",
+  "PRIN_NO" : "2900",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "L.L.Bean",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3904",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Consumer MasterCard Standard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3905",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Consumer MasterCard Standard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3906",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Consumer MasterCard Standard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3907",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Consumer MasterCard Standard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3908",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Consumer MasterCard Standard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3909",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Consumer MasterCard Standard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3910",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Dual Consumer MasterCard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3910",
+  "AGENT" : "0040",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Dual Consumer MasterCard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "100",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Blain`s Farm & Fleet Consumer",
+  "DUEDATE_CODES" : "12,22",
+  "BILLINGDATE_CODES" : "9,17"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "200",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Citi Health New Prefix Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "200",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Citi Health New Prefix Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "200",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Citi Health New Prefix Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "200",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Citi Health New Prefix Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "200",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Citi Health New Prefix Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "200",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Citi Health New Prefix Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "200",
+  "AGENT" : "0006",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Citi Health New Prefix Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "200",
+  "AGENT" : "0007",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Citi Health New Prefix Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "200",
+  "AGENT" : "0008",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Citi Health New Prefix Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "200",
+  "AGENT" : "0009",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Citi Health New Prefix Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "200",
+  "AGENT" : "0010",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Citi Health New Prefix Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "200",
+  "AGENT" : "9999",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Citi Health New Prefix Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4,9,11,16"
+}, {
+  "SYSTEM" : "2293",
+  "PRIN_NO" : "2901",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "L.L.Bean",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "2293",
+  "PRIN_NO" : "2901",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "L.L.Bean",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "612",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Cat Consumer Card",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "612",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Cat Consumer Card",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "612",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Cat Consumer Card",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "612",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Cat Consumer Card",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "612",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Cat Consumer Card",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "612",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Cat Consumer Card",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "612",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Cat Consumer Card",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "613",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Cat Commercial Revolving Account Card",
+  "DUEDATE_CODES" : " ",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "613",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Cat Commercial Revolving Account Card",
+  "DUEDATE_CODES" : " ",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "613",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Cat Commercial Revolving Account Card",
+  "DUEDATE_CODES" : " ",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "613",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Cat Commercial Revolving Account Card",
+  "DUEDATE_CODES" : " ",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "613",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Cat Commercial Revolving Account Card",
+  "DUEDATE_CODES" : " ",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "613",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Cat Commercial Revolving Account Card",
+  "DUEDATE_CODES" : " ",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "613",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Cat Commercial Revolving Account Card",
+  "DUEDATE_CODES" : " ",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "2293",
+  "PRIN_NO" : "2900",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "L.L.Bean",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "2293",
+  "PRIN_NO" : "2901",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "L.L.Bean",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "2293",
+  "PRIN_NO" : "2901",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "L.L.Bean",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "2293",
+  "PRIN_NO" : "2901",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "L.L.Bean",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5600",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL J Jill Consumer",
+  "DUEDATE_CODES" : "16",
+  "BILLINGDATE_CODES" : "12"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5700",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL American Airlines Consumer",
+  "DUEDATE_CODES" : "2,5,10,14,21",
+  "BILLINGDATE_CODES" : "2,4,8,11,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5800",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Bombay Consumer",
+  "DUEDATE_CODES" : "10",
+  "BILLINGDATE_CODES" : "8"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5900",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Fred Meyer Consumer",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5900",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Fred Meyer Consumer",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5900",
+  "AGENT" : "0006",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Fred Meyer Consumer",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5900",
+  "AGENT" : "0007",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Fred Meyer Consumer",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5900",
+  "AGENT" : "0008",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Fred Meyer Consumer",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5900",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Fred Meyer Consumer",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5900",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Fred Meyer Consumer",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "5900",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Fred Meyer Consumer",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "6000",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Radio Shack Consumer",
+  "DUEDATE_CODES" : "2,6,12,17,22,25",
+  "BILLINGDATE_CODES" : "2,5,9,13,17,19"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "6200",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL TBD Consumer",
+  "DUEDATE_CODES" : "4,8,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "3,6,7,10,14,15,18"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "6300",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "4,8,9,13,20,24",
+  "BILLINGDATE_CODES" : "3,6,7,10,15,18"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "6400",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL National Tire & Bttry Consumer",
+  "DUEDATE_CODES" : "2,8,10,17,26",
+  "BILLINGDATE_CODES" : "2,6,8,13,20"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "6500",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Tractor Supply Consumer",
+  "DUEDATE_CODES" : "2,10,16,21",
+  "BILLINGDATE_CODES" : "2,8,12,16"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "6600",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Drive Card Consumer",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "6700",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Drive Card Consumer",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "7000",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Staples Consumer",
+  "DUEDATE_CODES" : "4,16,24",
+  "BILLINGDATE_CODES" : "3,12,18"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "7100",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Office Depot Consumer",
+  "DUEDATE_CODES" : "9,16",
+  "BILLINGDATE_CODES" : "7,12"
+}, {
+  "SYSTEM" : "1384",
+  "PRIN_NO" : "7200",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Citi Health Consumer",
+  "DUEDATE_CODES" : "5,12,14,21",
+  "BILLINGDATE_CODES" : "4, 9, 11, 16"
+}, {
+  "SYSTEM" : "1253",
+  "PRIN_NO" : "5400",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sold SMC",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1253",
+  "PRIN_NO" : "5405",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sears Sold SMC",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1253",
+  "PRIN_NO" : "5410",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sears Sold SMC",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1242",
+  "PRIN_NO" : "5310",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Lands` End Platinum MC (LND)",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1238",
+  "PRIN_NO" : "5300",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sears Mastercard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1238",
+  "PRIN_NO" : "5305",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "TGI Gold MC",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "3900",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "4000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "4100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "4200",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - ley Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "4300",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Carpet One LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "4400",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - NHFA Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "1600",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "1700",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "1800",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - West Marine LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "1900",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - NTB Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "2000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "2100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "2200",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Goodyear Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "2300",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Goodyear Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "2400",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Sears Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "2500",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Sears Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "2600",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Sears Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "2700",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Sears Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "2800",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Sears Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "2900",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Sears Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "3000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Sears Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "0400",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "0500",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "0600",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "0700",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Sears Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "0800",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Sears Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "0900",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Sears Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "1000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Sears Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "1100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "1200",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - West Marine LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - West Marine LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "0100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - West Marine LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "0200",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - West Marine LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "0300",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Radio Shack LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "1300",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "1400",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "30",
+  "AGENT" : "1500",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "40",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Rogers Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "50",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Citi Health LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "60",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Fred Meyer LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "70",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Tractor Supply LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "80",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Bombay Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "80",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Bombay Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "80",
+  "AGENT" : "0100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Bombay Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "90",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "90",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC ABD - Sears LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "90",
+  "AGENT" : "9900",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "210",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "210",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Exxon Mobil LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "210",
+  "AGENT" : "0100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Exxon Mobil LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "210",
+  "AGENT" : "0200",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Exxon Mobil LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "3600",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "3700",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "3800",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "3900",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "4000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "4100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "4200",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1519",
+  "PRIN_NO" : "4500",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "MasterCard (Conoco) - Cons",
+  "DUEDATE_CODES" : "1,2,5,6,8,9,13,14,17,21,22",
+  "BILLINGDATE_CODES" : "1,2,4,5,6,7,10,11,13,16,17"
+}, {
+  "SYSTEM" : "1518",
+  "PRIN_NO" : "100",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "PL Sunoco Rewards Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1518",
+  "PRIN_NO" : "4100",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid PL Sunoco Rewards Plus Cons",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1519",
+  "PRIN_NO" : "4100",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid MC Sunoco Rewards Plus Cons",
+  "DUEDATE_CODES" : "1,2,5,6,8,9,13,14,17,21,22",
+  "BILLINGDATE_CODES" : "1,2,4,5,6,7,10,11,13,16,17"
+}, {
+  "SYSTEM" : "1496",
+  "PRIN_NO" : "8034",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Shell MasterCard Consumer",
+  "DUEDATE_CODES" : "1,2,5,6,8,9,13,14,17,21,22",
+  "BILLINGDATE_CODES" : "1,2,4,5,6,7,10,11,13,16,17"
+}, {
+  "SYSTEM" : "1451",
+  "PRIN_NO" : "5200",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Hybrid MC Citi Health Cons LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,8,9,13,14,17,21,22",
+  "BILLINGDATE_CODES" : "1,2,4,5,6,7,10,11,13,16,17"
+}, {
+  "SYSTEM" : "1451",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITIHEALTH VISIONSURG M/C LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,8,9,13,14,17,21,22",
+  "BILLINGDATE_CODES" : "1,2,4,5,6,7,10,11,13,16,17"
+}, {
+  "SYSTEM" : "1451",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITIHEALTH AUDIOLOGY  M/C LIQ",
+  "DUEDATE_CODES" : "4,10,16,22",
+  "BILLINGDATE_CODES" : "3,8,12,17"
+}, {
+  "SYSTEM" : "1451",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITIHEALTH ORTHODON  M/C LIQ",
+  "DUEDATE_CODES" : "4,10,16,22",
+  "BILLINGDATE_CODES" : "3,8,12,17"
+}, {
+  "SYSTEM" : "1451",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITIHEALTH HAIR  M/C LIQ",
+  "DUEDATE_CODES" : "4,10,16,22",
+  "BILLINGDATE_CODES" : "3,8,12,17"
+}, {
+  "SYSTEM" : "1451",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0006",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITIHEALTH MOBILITY M/C LIQ",
+  "DUEDATE_CODES" : "4,10,16,22",
+  "BILLINGDATE_CODES" : "3,8,12,17"
+}, {
+  "SYSTEM" : "1451",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0007",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITIHEALTH VET M/C LIQ",
+  "DUEDATE_CODES" : "4,10,16,22",
+  "BILLINGDATE_CODES" : "3,8,12,17"
+}, {
+  "SYSTEM" : "1451",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0008",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITIHEALTH VISION M/C LIQ",
+  "DUEDATE_CODES" : "4,10,16,22",
+  "BILLINGDATE_CODES" : "3,8,12,17"
+}, {
+  "SYSTEM" : "1451",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0009",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITIHEALTH OTHER M/C LIQ",
+  "DUEDATE_CODES" : "4,10,16,22",
+  "BILLINGDATE_CODES" : "3,8,12,17"
+}, {
+  "SYSTEM" : "1451",
+  "PRIN_NO" : "5200",
+  "AGENT" : "0010",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "CITIHEALTH RESRVD M/C LIQ",
+  "DUEDATE_CODES" : "4,10,16,22",
+  "BILLINGDATE_CODES" : "3,8,12,17"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3910",
+  "AGENT" : "0050",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Dual Consumer MasterCard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3910",
+  "AGENT" : "0060",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Dual Consumer MasterCard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3910",
+  "AGENT" : "0070",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Dual Consumer MasterCard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3910",
+  "AGENT" : "0080",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Dual Consumer MasterCard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3902",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Consumer MasterCard Standard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1438",
+  "PRIN_NO" : "3903",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "THD Co Brand Consumer MasterCard Standard",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "1000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "1100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "1200",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "1300",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "1400",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "1500",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "1600",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "1700",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "1800",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "1900",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "0100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "0200",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "0300",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "230",
+  "AGENT" : "0600",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Drivers Edge LIQ",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "230",
+  "AGENT" : "0700",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Platinum Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "230",
+  "AGENT" : "0800",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Platinum Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "230",
+  "AGENT" : "0900",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Platinum Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "230",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "230",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Classic Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "230",
+  "AGENT" : "0100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Diamond Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "230",
+  "AGENT" : "0200",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Diamond Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "230",
+  "AGENT" : "0300",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Diamond Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "230",
+  "AGENT" : "0400",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Diamond Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "230",
+  "AGENT" : "0500",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Diamond Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "240",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - THD Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "250",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "260",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "270",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "280",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "290",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "310",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "320",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "330",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "340",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "350",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "360",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "370",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "670",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MasterCard-Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "670",
+  "AGENT" : "0100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MasterCard-Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "670",
+  "AGENT" : "0200",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MasterCard-Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "670",
+  "AGENT" : "0300",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MasterCard-Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "670",
+  "AGENT" : "0400",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MasterCard-Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "670",
+  "AGENT" : "0500",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MasterCard-Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "529",
+  "AGENT" : "9999",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Fred Meyer - Liquidating",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "549",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Merchant`s Tire",
+  "DUEDATE_CODES" : "2,8,10,17,26",
+  "BILLINGDATE_CODES" : "2,6,8,13,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "549",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Big O Tires",
+  "DUEDATE_CODES" : "2,8,10,17,26",
+  "BILLINGDATE_CODES" : "2,6,8,13,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "549",
+  "AGENT" : "9999",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "National Tire & Battery",
+  "DUEDATE_CODES" : "2,8,10,17,26",
+  "BILLINGDATE_CODES" : "2,6,8,13,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "549",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "National Tire & Battery",
+  "DUEDATE_CODES" : "2,8,10,17,26",
+  "BILLINGDATE_CODES" : "2,6,8,13,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "502",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bailey Banks & Biddle Liquidating",
+  "DUEDATE_CODES" : "4,8,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "3,6,7,10,14,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "502",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bailey Banks & Biddle Liquidating",
+  "DUEDATE_CODES" : "4,9,18,24",
+  "BILLINGDATE_CODES" : "3,7,14,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "502",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bailey Banks & Biddle Liquidating",
+  "DUEDATE_CODES" : "4,9,18,24",
+  "BILLINGDATE_CODES" : "3,7,14,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "502",
+  "AGENT" : "0009",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bailey Banks & Biddle Liquidating",
+  "DUEDATE_CODES" : "4,9,18,24",
+  "BILLINGDATE_CODES" : "3,7,14,18"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "4300",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "4400",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "4500",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "2000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "2100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "2200",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "2300",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "2400",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "2500",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "2600",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "2700",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "2800",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "2900",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "3000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "3100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "3200",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "3300",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "3400",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "3500",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "0400",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "0500",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "0600",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "0700",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "0800",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "1215",
+  "PRIN_NO" : "220",
+  "AGENT" : "0900",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi MC - Macy`s Liquidating",
+  "DUEDATE_CODES" : "1,2,5,6,9,12,13,14,17,21,22,25",
+  "BILLINGDATE_CODES" : "1,2,4,5,7,9,10,11,13,16,17,19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "503",
+  "AGENT" : "0015",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "4,8,9,13,20,24",
+  "BILLINGDATE_CODES" : "3,6,7,10,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "503",
+  "AGENT" : "0016",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "4,8,9,13,20,24",
+  "BILLINGDATE_CODES" : "3,6,7,10,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "503",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "4,8,9,13,20,24",
+  "BILLINGDATE_CODES" : "3,6,7,10,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "501",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "2,5,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "2,4,7,10,14,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "501",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "2,5,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "2,4,7,10,14,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "501",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "2,5,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "2,4,7,10,14,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "501",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "2,5,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "2,4,7,10,14,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "501",
+  "AGENT" : "0009",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "2,5,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "2,4,7,10,14,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "501",
+  "AGENT" : "0012",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "2,5,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "2,4,7,10,14,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "501",
+  "AGENT" : "0013",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "2,5,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "2,4,7,10,14,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "501",
+  "AGENT" : "0014",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "2,5,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "2,4,7,10,14,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Furnishings Card Consumer",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Furnishings Card Consumer",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "0006",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Furnishings Card Consumer",
+  "DUEDATE_CODES" : "20",
+  "BILLINGDATE_CODES" : "15"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "0007",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Furnishings Card Consumer",
+  "DUEDATE_CODES" : "20",
+  "BILLINGDATE_CODES" : "15"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "0008",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Furnishings Card Consumer",
+  "DUEDATE_CODES" : "20",
+  "BILLINGDATE_CODES" : "15"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "0010",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Furnishings Card Consumer",
+  "DUEDATE_CODES" : "21",
+  "BILLINGDATE_CODES" : "16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "0011",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Furnishings Card Consumer",
+  "DUEDATE_CODES" : "21",
+  "BILLINGDATE_CODES" : "16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "0012",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Furnishings Card Consumer",
+  "DUEDATE_CODES" : "22",
+  "BILLINGDATE_CODES" : "17"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "0013",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Furnishings Card Consumer",
+  "DUEDATE_CODES" : "22",
+  "BILLINGDATE_CODES" : "17"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "0014",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Furnishings Card Consumer",
+  "DUEDATE_CODES" : "22",
+  "BILLINGDATE_CODES" : "17"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "0015",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Furnishings Card Consumer",
+  "DUEDATE_CODES" : "22",
+  "BILLINGDATE_CODES" : "17"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "9999",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Drive Card Liquidating",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "767",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Gateway Liquidating",
+  "DUEDATE_CODES" : "1,5,6,9,14,21",
+  "BILLINGDATE_CODES" : "1,4,5,7,11,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "768",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Gateway Liquidating",
+  "DUEDATE_CODES" : "26",
+  "BILLINGDATE_CODES" : "20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "766",
+  "AGENT" : "0012",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Gateway Liquidating",
+  "DUEDATE_CODES" : "1,5,6,9,14,21",
+  "BILLINGDATE_CODES" : "1,4,5,7,11,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "766",
+  "AGENT" : "0014",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Gateway Liquidating",
+  "DUEDATE_CODES" : "1,5,6,9,14,21",
+  "BILLINGDATE_CODES" : "1,4,5,7,11,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "766",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Gateway Liquidating",
+  "DUEDATE_CODES" : "1,5,6,9,14,21",
+  "BILLINGDATE_CODES" : "1,4,5,7,11,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "688",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Incredible Universe",
+  "DUEDATE_CODES" : "6,12,17,22",
+  "BILLINGDATE_CODES" : "5,9,13,17"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "688",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Incredible Universe",
+  "DUEDATE_CODES" : "6,12,17,22",
+  "BILLINGDATE_CODES" : "5,9,13,17"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "753",
+  "AGENT" : "0008",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Goodyear",
+  "DUEDATE_CODES" : "4,10,16,25",
+  "BILLINGDATE_CODES" : "3,8,12,19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "753",
+  "AGENT" : "1001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Kelly Springfield - New Accounts",
+  "DUEDATE_CODES" : "1",
+  "BILLINGDATE_CODES" : "1"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "753",
+  "AGENT" : "1002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Kelly Springfield - 2nd Look Accounts",
+  "DUEDATE_CODES" : "1",
+  "BILLINGDATE_CODES" : "1"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "753",
+  "AGENT" : "1110",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Associates Brands",
+  "DUEDATE_CODES" : "1",
+  "BILLINGDATE_CODES" : "1"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "753",
+  "AGENT" : "1120",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Dunlop New Accounts",
+  "DUEDATE_CODES" : "1",
+  "BILLINGDATE_CODES" : "1"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "753",
+  "AGENT" : "1130",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Dunlop - 2nd Look Accounts",
+  "DUEDATE_CODES" : "1",
+  "BILLINGDATE_CODES" : "1"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "753",
+  "AGENT" : "9999",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Goodyear",
+  "DUEDATE_CODES" : "4,10,16,25",
+  "BILLINGDATE_CODES" : "3,8,12,19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "753",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Goodyear",
+  "DUEDATE_CODES" : "4,10,16,25",
+  "BILLINGDATE_CODES" : "3,8,12,19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "685",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Radio Shack",
+  "DUEDATE_CODES" : "2,6,12,17,22,25",
+  "BILLINGDATE_CODES" : "2,5,9,13,17,19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "685",
+  "AGENT" : "0010",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Radio Shack",
+  "DUEDATE_CODES" : "2,6,12,17,22,25",
+  "BILLINGDATE_CODES" : "2,5,9,13,17,19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "685",
+  "AGENT" : "0031",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Radio Shack",
+  "DUEDATE_CODES" : "2,6,12,17,22,25",
+  "BILLINGDATE_CODES" : "2,5,9,13,17,19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "685",
+  "AGENT" : "0032",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Radio Shack",
+  "DUEDATE_CODES" : "2,6,12,17,22,25",
+  "BILLINGDATE_CODES" : "2,5,9,13,17,19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "685",
+  "AGENT" : "0033",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Radio Shack",
+  "DUEDATE_CODES" : "2,6,12,17,22,25",
+  "BILLINGDATE_CODES" : "2,5,9,13,17,19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "685",
+  "AGENT" : "0034",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Radio Shack",
+  "DUEDATE_CODES" : "2,6,12,17,22,25",
+  "BILLINGDATE_CODES" : "2,5,9,13,17,19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "686",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "McDuff",
+  "DUEDATE_CODES" : "2,6,12,17,22,25",
+  "BILLINGDATE_CODES" : "2,5,9,13,17,19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "614",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "614",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "614",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "615",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Toro-ExMark Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "615",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Toro-ExMark Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "615",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Toro-ExMark Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "615",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Toro-ExMark Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "615",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Toro-ExMark Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "615",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Toro-ExMark Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "644",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "4,8,12",
+  "BILLINGDATE_CODES" : "3,6,9"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "644",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "4,8,12",
+  "BILLINGDATE_CODES" : "3,6,9"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "644",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "4,8,12",
+  "BILLINGDATE_CODES" : "3,6,9"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "655",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "J Jill Liquidating",
+  "DUEDATE_CODES" : "16",
+  "BILLINGDATE_CODES" : "12"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "610",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Costco Member Credit",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "610",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "RPC Industry TBD",
+  "DUEDATE_CODES" : "13",
+  "BILLINGDATE_CODES" : "10"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "611",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sears Hometown and Outlet",
+  "DUEDATE_CODES" : "14",
+  "BILLINGDATE_CODES" : "11"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "611",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sears Hometown and Outlet",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "611",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "RPC Industry TBD",
+  "DUEDATE_CODES" : "14",
+  "BILLINGDATE_CODES" : "11"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "611",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "RPC Industry TBD",
+  "DUEDATE_CODES" : "14",
+  "BILLINGDATE_CODES" : "11"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "611",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "RPC Industry TBD",
+  "DUEDATE_CODES" : "14",
+  "BILLINGDATE_CODES" : "11"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "611",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "RPC Industry TBD",
+  "DUEDATE_CODES" : "14",
+  "BILLINGDATE_CODES" : "11"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "614",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "614",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "614",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Commercial",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "0015",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "607",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Your HealthCredit",
+  "DUEDATE_CODES" : "5,21",
+  "BILLINGDATE_CODES" : "4,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "671",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "671",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "671",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "671",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Brooks Brothers",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "608",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Toro-ExMark Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "608",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Toro-ExMark Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "608",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Toro-ExMark Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "608",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Toro-ExMark Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "608",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Toro-ExMark Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "608",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Toro-ExMark Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "609",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "609",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "HondaPowerEquipmentConsumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "609",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "609",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "609",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "609",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Honda Power Equipment Consumer",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "610",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "RPC Industry TBD",
+  "DUEDATE_CODES" : "13",
+  "BILLINGDATE_CODES" : "10"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "610",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "RPC Industry TBD",
+  "DUEDATE_CODES" : "13",
+  "BILLINGDATE_CODES" : "10"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "610",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "RPC Industry TBD",
+  "DUEDATE_CODES" : "13",
+  "BILLINGDATE_CODES" : "10"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "610",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Costco Member Credit",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "606",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Jewelers Reserve Card",
+  "DUEDATE_CODES" : "8",
+  "BILLINGDATE_CODES" : "6"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "604",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Brand Source/Pro Source Consumer",
+  "DUEDATE_CODES" : "24",
+  "BILLINGDATE_CODES" : "18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "604",
+  "AGENT" : "0300",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Brand Source Consumer",
+  "DUEDATE_CODES" : "24",
+  "BILLINGDATE_CODES" : "18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "604",
+  "AGENT" : "0500",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Pro Source Consumer",
+  "DUEDATE_CODES" : "24",
+  "BILLINGDATE_CODES" : "18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "605",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Electronics and Appliances Credit Card",
+  "DUEDATE_CODES" : "6",
+  "BILLINGDATE_CODES" : "5"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "605",
+  "AGENT" : "0001",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Electronics and Appliances Credit Card",
+  "DUEDATE_CODES" : "6",
+  "BILLINGDATE_CODES" : "5"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "605",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Electronics and Appliances Credit Card",
+  "DUEDATE_CODES" : "6",
+  "BILLINGDATE_CODES" : "5"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "605",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Electronics and Appliances Credit Card",
+  "DUEDATE_CODES" : "6",
+  "BILLINGDATE_CODES" : "5"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "605",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Electronics and Appliances Credit Card",
+  "DUEDATE_CODES" : "6",
+  "BILLINGDATE_CODES" : "5"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "605",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Electronics and Appliances Credit Card",
+  "DUEDATE_CODES" : "6",
+  "BILLINGDATE_CODES" : "5"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "605",
+  "AGENT" : "0006",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Electronics and Appliances Credit Card",
+  "DUEDATE_CODES" : "6",
+  "BILLINGDATE_CODES" : "5"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "605",
+  "AGENT" : "0007",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Electronics and Appliances Credit Card",
+  "DUEDATE_CODES" : "6",
+  "BILLINGDATE_CODES" : "5"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "605",
+  "AGENT" : "0008",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Electronics and Appliances Credit Card",
+  "DUEDATE_CODES" : "6",
+  "BILLINGDATE_CODES" : "5"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "605",
+  "AGENT" : "0009",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Electronics and Appliances Credit Card",
+  "DUEDATE_CODES" : "6",
+  "BILLINGDATE_CODES" : "5"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "605",
+  "AGENT" : "0010",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Electronics and Appliances Credit Card",
+  "DUEDATE_CODES" : "6",
+  "BILLINGDATE_CODES" : "5"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "606",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Ross-Simons",
+  "DUEDATE_CODES" : "8",
+  "BILLINGDATE_CODES" : "6"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "606",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sidney Thomas",
+  "DUEDATE_CODES" : "8",
+  "BILLINGDATE_CODES" : "6"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "606",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Jewelers Reserve Card",
+  "DUEDATE_CODES" : "8",
+  "BILLINGDATE_CODES" : "6"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "606",
+  "AGENT" : "0005",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "RPC Industry TBD",
+  "DUEDATE_CODES" : "8",
+  "BILLINGDATE_CODES" : "6"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "606",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "RPC Industry TBD",
+  "DUEDATE_CODES" : "8",
+  "BILLINGDATE_CODES" : "6"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "549",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Tire Kingdom",
+  "DUEDATE_CODES" : "2,8,10,17,26",
+  "BILLINGDATE_CODES" : "2,6,8,13,20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "575",
+  "AGENT" : "**",
+  "FIELD7" : "",
+  "CLIENT_NAME" : "Tractor Supply",
+  "DUEDATE_CODES" : "2,10,16,21",
+  "BILLINGDATE_CODES" : "2,8,12,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "575",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Tractor Supply",
+  "DUEDATE_CODES" : "2,10,16,21",
+  "BILLINGDATE_CODES" : "2,8,12,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "575",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Del`s Farm Supply",
+  "DUEDATE_CODES" : "2,10,16,21",
+  "BILLINGDATE_CODES" : "2,8,12,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "575",
+  "AGENT" : "9999",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Tractor Supply",
+  "DUEDATE_CODES" : "2,10,16,21",
+  "BILLINGDATE_CODES" : "2,8,12,16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "577",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "West Marine - Liquidating",
+  "DUEDATE_CODES" : "17",
+  "BILLINGDATE_CODES" : "13"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "577",
+  "AGENT" : "9999",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "West Marine - Liquidating",
+  "DUEDATE_CODES" : "17",
+  "BILLINGDATE_CODES" : "13"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "599",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Rogers Liquidating",
+  "DUEDATE_CODES" : "14",
+  "BILLINGDATE_CODES" : "11"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "603",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Ford/Lincoln/Quick Lane Consumer",
+  "DUEDATE_CODES" : "4",
+  "BILLINGDATE_CODES" : "3"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "603",
+  "AGENT" : "1000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Ford Consumer",
+  "DUEDATE_CODES" : "4",
+  "BILLINGDATE_CODES" : "3"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "603",
+  "AGENT" : "1200",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Quick Lane Consumer",
+  "DUEDATE_CODES" : "4",
+  "BILLINGDATE_CODES" : "3"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "503",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "4,8,9,13,20,24",
+  "BILLINGDATE_CODES" : "3,6,7,10,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "528",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bombay - Liquidating",
+  "DUEDATE_CODES" : "10",
+  "BILLINGDATE_CODES" : "8"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "2526",
+  "AGENT" : "9999",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Amazon Consumer - Liquidated",
+  "DUEDATE_CODES" : "8",
+  "BILLINGDATE_CODES" : "6"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "2600",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Staples Consumer",
+  "DUEDATE_CODES" : "4,16,24",
+  "BILLINGDATE_CODES" : "3,12,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "2600",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Staples Consumer",
+  "DUEDATE_CODES" : "4,16,24",
+  "BILLINGDATE_CODES" : "3,12,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "2656",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Office Depot Consumer",
+  "DUEDATE_CODES" : "9,16",
+  "BILLINGDATE_CODES" : "7,12"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "2656",
+  "AGENT" : "0003",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Office Depot Consumer",
+  "DUEDATE_CODES" : "9,16",
+  "BILLINGDATE_CODES" : "7,12"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "2656",
+  "AGENT" : "0004",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Office Depot Consumer",
+  "DUEDATE_CODES" : "9,16",
+  "BILLINGDATE_CODES" : "7,12"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "501",
+  "AGENT" : "0015",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "2,5,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "2,4,7,10,14,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "501",
+  "AGENT" : "0016",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Citi",
+  "DUEDATE_CODES" : "2,5,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "2,4,7,10,14,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "502",
+  "AGENT" : "0012",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bailey Banks & Biddle Liquidating",
+  "DUEDATE_CODES" : "4,9,18,24",
+  "BILLINGDATE_CODES" : "3,7,14,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "502",
+  "AGENT" : "0013",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bailey Banks & Biddle Liquidating",
+  "DUEDATE_CODES" : "4,9,18,24",
+  "BILLINGDATE_CODES" : "3,7,14,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "502",
+  "AGENT" : "0015",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bailey Banks & Biddle Liquidating",
+  "DUEDATE_CODES" : "4,8,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "3,6,7,10,14,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "502",
+  "AGENT" : "0016",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bailey Banks & Biddle Liquidating",
+  "DUEDATE_CODES" : "4,8,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "3,6,7,10,14,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "502",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Bailey Banks & Biddle Liquidating",
+  "DUEDATE_CODES" : "4,8,9,13,18,20,24",
+  "BILLINGDATE_CODES" : "3,6,7,10,14,15,18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "603",
+  "AGENT" : "1100",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Lincoln Service Card",
+  "DUEDATE_CODES" : "6",
+  "BILLINGDATE_CODES" : "5"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "0009",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Furnishings Card Consumer",
+  "DUEDATE_CODES" : "21",
+  "BILLINGDATE_CODES" : "16"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "771",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Drive Card",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "771",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Drive Card",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "771",
+  "AGENT" : "0006",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Volkswagen of America",
+  "DUEDATE_CODES" : "24",
+  "BILLINGDATE_CODES" : "18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "771",
+  "AGENT" : "0007",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Drive Card",
+  "DUEDATE_CODES" : "24",
+  "BILLINGDATE_CODES" : "18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "771",
+  "AGENT" : "0008",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Drive Card",
+  "DUEDATE_CODES" : "24",
+  "BILLINGDATE_CODES" : "18"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "771",
+  "AGENT" : "0009",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Drive Card",
+  "DUEDATE_CODES" : "26",
+  "BILLINGDATE_CODES" : "20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "771",
+  "AGENT" : "0010",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Drive Card",
+  "DUEDATE_CODES" : "26",
+  "BILLINGDATE_CODES" : "20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "771",
+  "AGENT" : "0011",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Drive Card",
+  "DUEDATE_CODES" : "26",
+  "BILLINGDATE_CODES" : "20"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "771",
+  "AGENT" : "0012",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Drive Card",
+  "DUEDATE_CODES" : "18",
+  "BILLINGDATE_CODES" : "14"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "771",
+  "AGENT" : "0013",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Drive Card",
+  "DUEDATE_CODES" : "18",
+  "BILLINGDATE_CODES" : "14"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "771",
+  "AGENT" : "0014",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Drive Card",
+  "DUEDATE_CODES" : "18",
+  "BILLINGDATE_CODES" : "14"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "771",
+  "AGENT" : "0015",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Drive Card",
+  "DUEDATE_CODES" : "18",
+  "BILLINGDATE_CODES" : "14"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "771",
+  "AGENT" : "9999",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Drive Card",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "776",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Helzberg Liquidating",
+  "DUEDATE_CODES" : "6,13,22",
+  "BILLINGDATE_CODES" : "5,10,17"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Furnishings Card Consumer",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "770",
+  "AGENT" : "0002",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Home Furnishings Card Consumer",
+  "DUEDATE_CODES" : "25",
+  "BILLINGDATE_CODES" : "19"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "529",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Fred Meyer - Liquidating",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "9194",
+  "PRIN_NO" : "529",
+  "AGENT" : "0000",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Fred Meyer - Liquidating",
+  "DUEDATE_CODES" : "12",
+  "BILLINGDATE_CODES" : "9"
+}, {
+  "SYSTEM" : "9351",
+  "PRIN_NO" : "5010",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sears Charge Plus",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9351",
+  "PRIN_NO" : "5015",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "HIPS",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9354",
+  "PRIN_NO" : "5410",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sears Sold Private Label",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9354",
+  "PRIN_NO" : "5400",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sears Sold Private Label",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9351",
+  "PRIN_NO" : "5000",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sears Private Label",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+}, {
+  "SYSTEM" : "9351",
+  "PRIN_NO" : "5005",
+  "AGENT" : "**",
+  "FIELD7" : " ",
+  "CLIENT_NAME" : "Sears Card Pre Conversion",
+  "DUEDATE_CODES" : "1,2,4,5,6,8,9,10,12,13,14,16,17,18,20,21,22,24,25,26",
+  "BILLINGDATE_CODES" : "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
+} ]

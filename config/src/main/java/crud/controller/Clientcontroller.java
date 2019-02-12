@@ -9,8 +9,11 @@ import org.json.simple.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -36,22 +39,26 @@ public class Clientcontroller {
 	private Clientrepository clientRepository;
 	Gson gson = new Gson();
 	ObjectMapper mapper = new ObjectMapper();
-	@ResponseBody
+	
 	@GetMapping("/viewClients")
+	@ResponseBody
 	public List<Client> getAllClients() throws JsonGenerationException, JsonMappingException, IOException {
 		List<Client> clients=clientService.getAllClients();
 		return clients;
 
 	}
-	@RequestMapping(value="/updateClient",produces="application/json")
+	@RequestMapping(value="/updateClient",produces="application/json",method = RequestMethod.PUT)
 	//public String updateClients(@RequestBody Client client) throws JsonGenerationException, JsonMappingException, IOException{
-	public JSONArray updateClients() throws JsonGenerationException, JsonMappingException, IOException, ParseException{
+	@ResponseBody
+//	public JSONArray updateClients(@ModelAttribute() Clientrepository ref1,@ModelAttribute() Clientservice ref2,@RequestParam String path) throws JsonGenerationException, JsonMappingException, IOException, ParseException{
+	public JSONArray updateClients(@RequestParam String path) throws JsonGenerationException, JsonMappingException, IOException, ParseException{
 
 		// clientService.saveOrUpdate(client);
 		List<Client> all = clientRepository.findAll();
+		//List<Client> all = ref1.findAll();
 		String jsonstr = gson.toJson(all);
 		clientService.save(all);
-		//	
+		//ref2.save(all);		
 		JSONObject jsonObject = null;
 		JSONParser parser = new JSONParser();
 		Object object = parser.parse(jsonstr);
@@ -62,7 +69,8 @@ public class Clientcontroller {
 			jsonObject.remove("id");
 		} 
 		ObjectWriter writer = mapper.writer(new DefaultPrettyPrinter());
-		writer.writeValue(new File("E:/sts/config/src/main/resources/json/client_info_final_"+version++ +".json"), jsonArray);
+//		writer.writeValue(new File("E:/sts/config/src/main/resources/json/client_info_final_"+version++ +".json"), jsonArray);
+		writer.writeValue(new File(path), jsonArray);
 
 
 		return jsonArray;
